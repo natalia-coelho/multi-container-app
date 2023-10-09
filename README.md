@@ -6,7 +6,7 @@ Below is my notes from a sample docker application study. :)
 - Docker originated in the Linux world.
 - It can run containers on Linux with various applications.
 - Docker provides consistency in application deployment.
-![Alt text](image-2.png)
+![Alt text](image-docker.png)
 
 **[[Dockerfile]]**
 - Utilize the `Dockerfile` to specify how to deploy your application.
@@ -29,8 +29,7 @@ Below is my notes from a sample docker application study. :)
 
 **Dockerfile, Images, Applications**
 - A Dockerfile is used to build container images that encapsulate your applications.
-![Alt text](image-1.png)
-
+![Alt text](image-app-dockerfile.png)
 **Supported Workloads**
 - Docker supports various types of workloads, including Docker Compose and Kubernetes.
 
